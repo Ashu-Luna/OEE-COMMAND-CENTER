@@ -1,0 +1,8 @@
+RECORD_ID,MACHINE_ID,EVENT_TS,EVENT_TYPE,FAILURE_MODE,PART_USED,DOWNTIME_MIN,NOTES
+101,CNC-01,2026-09-26 17:25:42.050,UNPLANNED,BEARING,BRG-204,135,Excessive vibration detected; spindle bearing replaced. Root cause: lubrication degradation.
+102,CNC-02,2026-09-27 07:25:42.050,UNPLANNED,OVERHEAT,COOL-PLG,95,Coolant pump gasket failure led to thermal runaway on spindle. Gasket replaced coolant flushed.
+103,PRS-01,2026-09-27 19:25:42.050,UNPLANNED,BEARING,BRG-308,110,Main ram bearing seized under load. Bearing and seal kit replaced.
+104,CNC-01,2026-09-28 11:25:42.050,UNPLANNED,SPINDLE,SPND-110,180,Spindle cartridge catastrophic failure. Full cartridge assembly replaced.
+105,RBT-01,2026-09-19 05:25:42.050,PLANNED,,WLD-TIP,30,Scheduled electrode tip replacement and calibration.
+106,PRS-01,2026-09-22 05:25:42.050,PLANNED,,FLT-OIL,20,Routine hydraulic oil filter change.
+107,CNC-02,2026-09-25 05:25:42.050,PLANNED,,,15,Scheduled axis alignment check and calibration.

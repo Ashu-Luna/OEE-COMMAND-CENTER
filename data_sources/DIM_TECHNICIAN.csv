@@ -1,0 +1,13 @@
+TECHNICIAN_ID,TECHNICIAN_NAME,SPECIALIZATION,SKILL_LEVEL,SHIFT_ASSIGNMENT,CONTACT_NUMBER,IS_AVAILABLE,HIRE_DATE,JIRA_EMAIL
+TECH-01,Naveen Bharathi,CNC Machining,Senior,DAY,+91-9876543201,TRUE,2018-03-15,knskings05@gmail.com
+TECH-02,Bhavna,Hydraulic Press,Senior,DAY,+91-9876543202,TRUE,2017-06-22,bhavna.vinodh-pillai@rntbci-nissan.com
+TECH-03,Nelakurthi Meghana,Robotics,Mid,DAY,+91-9876543203,TRUE,2020-01-10,nelakurthi.meghana@rntbci-nissan.com
+TECH-04,Asha Jyothi,Electrical Systems,Senior,NIGHT,+91-9876543204,TRUE,2016-11-05,ashajyothiakula81@gmail.com
+TECH-05,Naveen Bharathi,CNC Machining,Mid,NIGHT,+91-9876543205,FALSE,2021-04-18,knskings05@gmail.com
+TECH-06,Nelakurthi Meghana,Bearing & Spindle,Senior,DAY,+91-9876543206,TRUE,2015-08-30,nelakurthi.meghana@rntbci-nissan.com
+TECH-07,Bhavna,Hydraulic Press,Junior,DAY,+91-9876543207,TRUE,2024-02-14,bhavna.vinodh-pillai@rntbci-nissan.com
+TECH-08,Asha Jyothi,Robotics,Mid,NIGHT,+91-9876543208,TRUE,2022-07-01,ashajyothiakula81@gmail.com
+TECH-09,Naveen Bharathi,Thermal Systems,Senior,DAY,+91-9876543209,FALSE,2019-05-20,knskings05@gmail.com
+TECH-10,Nelakurthi Meghana,CNC Machining,Junior,NIGHT,+91-9876543210,TRUE,2025-01-08,nelakurthi.meghana@rntbci-nissan.com
+TECH-11,Asha Jyothi,Electrical Systems,Mid,DAY,+91-9876543211,TRUE,2021-09-12,ashajyothiakula81@gmail.com
+TECH-12,Bhavna,Bearing & Spindle,Mid,NIGHT,+91-9876543212,TRUE,2023-03-25,bhavna.vinodh-pillai@rntbci-nissan.com

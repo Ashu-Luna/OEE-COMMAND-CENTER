@@ -1,0 +1,4 @@
+MACHINE_ID,ANOMALY_TS,DEVIATION_SCORE,ROOT_CAUSE_NARRATIVE
+CNC-01,2026-09-28 11:24:00,33.58,"Spindle Bearing failure indicated by vibration climbing from 2.44 to 10.52 mm/s with temperature rising from 42.1C to 58.9C over 50 minutes. Estimated time-to-failure: 2-3 hours. Replace BRG-204 (12 in stock at WH-EAST)."
+CNC-02,2026-09-27 07:25:00,33.13,"OVERHEAT condition from coolant system issue. Temperature surged from 45C to 78.8C with vibration from 2.4 to 10.87 mm/s. Estimated time-to-failure: 2-3 hours. Replace COOL-PLG (25 in stock at WH-EAST)."
+PRS-01,2026-09-27 19:22:00,32.75,"Main ram bearing failure with vibration from 2.8 to 11 mm/s and temperature from 49C to 68.3C. Estimated time-to-failure: ~30 minutes. Replace BRG-308 (8 in stock at WH-EAST)."
